@@ -1,3 +1,4 @@
+# *About me*
 
 **//** *I’m S6F, @iS6F on Github.*
 
@@ -5,7 +6,7 @@
 
 **//** *Coding for fun, Mostly Python.*
 
-# *You can contact me :)*
+# *You can contact me here*
 
 **//** *Discord* : ``S6F#0001 [728338295582621780]``
 
