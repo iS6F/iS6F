@@ -10,6 +10,6 @@
 
 **//** *Discord* : **S6F#0001** ``728338295582621780``
 
-**//** *Mail* : *x@onionmail.com*
+**//** *Mail* : *-@onionmail.com*
 
 ![wedoalittletrolling](https://user-images.githubusercontent.com/66199912/147183043-223d7f11-0547-4625-9923-8327d63ba5b1.jpg)
