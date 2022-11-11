@@ -8,7 +8,7 @@
 
 # *You can contact me here*
 
-**//** *Discord* : **S6F#0001** ``728338295582621780``
+**//** *Discord* : **S6F#1668** ``728338295582621780``
 
 **//** *Mail* : *e@onionmail.com*
 
